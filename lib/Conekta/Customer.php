@@ -2,8 +2,11 @@
 
 namespace Conekta;
 
-use \Conekta\ConektaResource;
 
+/**
+ * Class Customer
+ * @package Conekta
+ */
 class Customer extends ConektaResource
 {
   var $livemode                 = "";

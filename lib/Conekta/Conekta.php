@@ -2,6 +2,11 @@
 
 namespace Conekta;
 
+
+/**
+ * Class Conekta
+ * @package Conekta
+ */
 abstract class Conekta
 {
     public static $apiKey;

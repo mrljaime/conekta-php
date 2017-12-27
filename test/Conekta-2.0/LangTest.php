@@ -1,6 +1,7 @@
 <?php
 
-namespace Conekta;
+use Conekta\BaseTest;
+
 
 class LangTest extends BaseTest
 {   

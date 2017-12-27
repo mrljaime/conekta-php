@@ -1,6 +1,8 @@
 <?php
 
-namespace Conekta;
+use Conekta\BaseTest;
+use Conekta\Order;
+
 
 class ChargeTest extends BaseTest
 {

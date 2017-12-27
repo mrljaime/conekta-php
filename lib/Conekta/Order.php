@@ -2,8 +2,11 @@
 
 namespace Conekta;
 
-use \Conekta\ConektaResource;
 
+/**
+ * Class Order
+ * @package Conekta
+ */
 class Order extends ConektaResource
 {
   var $livemode      = "";
